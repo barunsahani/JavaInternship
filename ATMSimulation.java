@@ -1,4 +1,4 @@
-import java.util.Scanner;          //final
+import java.util.Scanner;          
 
 class ATM {
 
