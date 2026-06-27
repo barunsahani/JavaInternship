@@ -9,3 +9,9 @@ build with java
 
 
 #
+
+
+#
+
+
+This things I learned during the internship 
